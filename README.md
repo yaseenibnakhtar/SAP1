@@ -1,2 +1,2 @@
 # SAP1
-CAO Project
+Computer architecture and organization Project
